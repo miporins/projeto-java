@@ -1,3 +1,3 @@
 # projeto-java
 
-alteração
+A bunch of little projects to practice Java studies.
